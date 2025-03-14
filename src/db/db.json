@@ -54,5 +54,40 @@
     "phone": "697-935-8687 x26964",
     "email": "Janis_Lynch3@gmail.com",
     "job": "International Data Engineer"
+  },
+  {
+    "id": "f20b7eb2-1d5d-426d-b427-94077317037c",
+    "name": "Alyssa Green III",
+    "phone": "1-502-818-5456 x2688",
+    "email": "Eugenia57@hotmail.com",
+    "job": "Global Directives Analyst"
+  },
+  {
+    "id": "331ef184-0d77-49f7-ac69-f705161dbc3d",
+    "name": "Marjorie Toy Jr.",
+    "phone": "507.697.9754 x59071",
+    "email": "Shanny.Bernhard@gmail.com",
+    "job": "Regional Data Consultant"
+  },
+  {
+    "id": "2d699f3e-b343-4f07-94f9-190d43418258",
+    "name": "Dr. Darrell Doyle",
+    "phone": "(988) 296-5323 x954",
+    "email": "Roma_Aufderhar@gmail.com",
+    "job": "Legacy Functionality Director"
+  },
+  {
+    "id": "b3f7e4c0-7bae-40fc-8982-dbe931c56049",
+    "name": "Theresa West DVM",
+    "phone": "569.948.3615 x3511",
+    "email": "Reginald9@yahoo.com",
+    "job": "Corporate Program Strategist"
+  },
+  {
+    "id": "f0df938f-7f30-4f8e-8e68-24a4db114d42",
+    "name": "Mr. Kenneth Lynch",
+    "phone": "239-276-0714 x9067",
+    "email": "Ismael_Quigley26@hotmail.com",
+    "job": "Regional Research Architect"
   }
 ]
