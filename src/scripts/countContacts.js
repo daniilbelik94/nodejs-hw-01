@@ -1,4 +1,4 @@
-const readContacts = require('../utils/readContacts.js');
+import readContacts  from '../utils/readContacts.js';
 
 async function countContacts() {
   try {

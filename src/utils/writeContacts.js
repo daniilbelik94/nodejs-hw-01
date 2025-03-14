@@ -1,5 +1,5 @@
-const fs = require('fs').promises;
-const { PATH_DB } = require('../constants/contacts.js');
+import fs from 'fs/promises';
+import { PATH_DB } from '../constants/contacts.js';
 
 async function writeContacts(contacts) {
   try {
@@ -9,4 +9,4 @@ async function writeContacts(contacts) {
   }
 }
 
-module.exports = writeContacts;
+export default writeContacts;

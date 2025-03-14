@@ -1,4 +1,4 @@
-const { faker } = require('@faker-js/faker');
+import { faker } from '@faker-js/faker';
 
 function createFakeContact() {
   return {
@@ -10,4 +10,4 @@ function createFakeContact() {
   };
 }
 
-module.exports = createFakeContact;
+export default createFakeContact;

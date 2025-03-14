@@ -1,4 +1,4 @@
-{
+{ "type": "module",
   "name": "nodejs-hw-01",
   "version": "1.0.0",
   "main": "index.js",
@@ -12,11 +12,12 @@
     "remove-all": "node src/scripts/removeAllContacts.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Daniil Belik",
   "license": "ISC",
-  "description": "",
+  "description": "GoIT Node.js homework 01",
   "devDependencies": {
     "@faker-js/faker": "^9.6.0"
   }
+  
 }
 

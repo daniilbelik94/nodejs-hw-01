@@ -1,5 +1,5 @@
-const readContacts = require('../utils/readContacts');
-const writeContacts = require('../utils/writeContacts');
+import readContacts from '../utils/readContacts';
+import writeContacts from '../utils/writeContacts';
 
 async function removeLastContact() {
   try {
