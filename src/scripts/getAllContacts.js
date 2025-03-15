@@ -1,13 +1,17 @@
-import readContacts from '../utils/readContacts';
+import readContacts from '../utils/readContacts.js';
 
 async function getAllContacts() {
   try {
     const contacts = await readContacts();
-    console.log('All contacts:', contacts);
+    console.log('Все контакты:', contacts);
     return contacts;
   } catch (error) {
     console.error('Error getting contacts:', error);
+    throw error;
   }
 }
 
 getAllContacts();
+
+
+
